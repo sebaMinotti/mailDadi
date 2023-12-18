@@ -1,0 +1,1 @@
+# in questo esempio/esercizio non utilizzerò grafica ma solo dei console log o alert per valutare chi tra pc ed umano sarà il vincitore , siegazione: generare un numero random da 1 a 6 sia per l'utente che per il pc vince chi tra i due ha il numero maggiore !!
